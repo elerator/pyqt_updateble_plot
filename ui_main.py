@@ -68,7 +68,6 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow", None))
         self.btnAdd.setText(_translate("MainWindow", "update sine wave", None))
-        self.btnAdd2.setText(_translate("MainWindow", "popolopo", None))
 
         self.chkMore.setText(_translate("MainWindow", "keep updating", None))
 
